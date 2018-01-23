@@ -1,0 +1,11 @@
+C:\Users\Owner\source\repos\CSharpCoreIntro\CSharpCoreIntro\bin\Debug\netcoreapp2.0\CSharpCoreIntro.deps.json
+C:\Users\Owner\source\repos\CSharpCoreIntro\CSharpCoreIntro\bin\Debug\netcoreapp2.0\CSharpCoreIntro.runtimeconfig.json
+C:\Users\Owner\source\repos\CSharpCoreIntro\CSharpCoreIntro\bin\Debug\netcoreapp2.0\CSharpCoreIntro.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\CSharpCoreIntro\CSharpCoreIntro\bin\Debug\netcoreapp2.0\CSharpCoreIntro.dll
+C:\Users\Owner\source\repos\CSharpCoreIntro\CSharpCoreIntro\bin\Debug\netcoreapp2.0\CSharpCoreIntro.pdb
+C:\Users\Owner\source\repos\CSharpCoreIntro\CSharpCoreIntro\obj\Debug\netcoreapp2.0\CSharpCoreIntro.csprojResolveAssemblyReference.cache
+C:\Users\Owner\source\repos\CSharpCoreIntro\CSharpCoreIntro\obj\Debug\netcoreapp2.0\CSharpCoreIntro.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\CSharpCoreIntro\CSharpCoreIntro\obj\Debug\netcoreapp2.0\CSharpCoreIntro.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\CSharpCoreIntro\CSharpCoreIntro\obj\Debug\netcoreapp2.0\CSharpCoreIntro.AssemblyInfo.cs
+C:\Users\Owner\source\repos\CSharpCoreIntro\CSharpCoreIntro\obj\Debug\netcoreapp2.0\CSharpCoreIntro.dll
+C:\Users\Owner\source\repos\CSharpCoreIntro\CSharpCoreIntro\obj\Debug\netcoreapp2.0\CSharpCoreIntro.pdb
